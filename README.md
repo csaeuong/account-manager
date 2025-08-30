@@ -20,7 +20,8 @@ The objective of this project is to create a simple password manager that allows
 - getpass (for hidden password input)
 
   ## Code 
-<img width="1920" height="1040" alt="Passgen" src="https://github.com/user-attachments/assets/d59a6c17-4026-463a-a037-88096a027dbc" />
+
+<img width="1920" height="1039" alt="Passman" src="https://github.com/user-attachments/assets/7bd62ccc-9352-4b42-847a-71aeac12e302" />
 
 ### Quick Reference
 
